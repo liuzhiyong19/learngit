@@ -3,4 +3,4 @@ Git is free software.
 时光机穿梭--工作区和暂存区
 Git has a mutable index called stage.
 Git tracks changes of files.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
